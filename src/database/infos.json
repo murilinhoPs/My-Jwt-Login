@@ -1,0 +1,40 @@
+{
+    "infos": [
+        {
+            "name": "Murilo",
+            "email": "murilo@teste.com",
+            "tasks": [
+                {
+                    "task1": "BláBlá",
+                    "completed": true
+                },
+                {
+                    "task2": "BláBlá2",
+                    "completed": true
+                },
+                {
+                    "task3": "BláBlá3",
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "name": "Rodrigo",
+            "email": "rodrigo@teste.com",
+            "tasks": [
+                {
+                    "task1": "BláBlá",
+                    "completed": false
+                },
+                {
+                    "task2": "BláBlá2",
+                    "completed": false
+                },
+                {
+                    "task3": "BláBlá3",
+                    "completed": true
+                }
+            ]
+        }
+    ]
+}

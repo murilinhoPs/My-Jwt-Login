@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "name": "Murilo",
+            "email": "murilo@teste.com",
+            "password": "$2b$10$.bMeTnwU1YRSMxvz8.XrceMkVrDgBz1ocwCuvkHrVLgTkW61iKTfC"
+        },
+        {
+            "name": "Rodrigo",
+            "email": "rodrigo@teste.com",
+            "password": "$2b$10$He2/F9WAA8ioJrLtg7gGlujyzOTL426qyeHMXsh30hHwMFtVUE6z2"
+        }
+    ]
+}
