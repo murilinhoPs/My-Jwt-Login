@@ -28,8 +28,9 @@ module.exports = {
       res.status(500).send(e.message);
     }
   },
+
   async authUser(req, res) {
-    const user = userData.users.find((user) => user.email === req.body.email);
+    const user = userData.users.find((user) => user.name === req.body.name);
 
     if (user == null) return res.status(400).send("Usuário não encontrado.");
 
