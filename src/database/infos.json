@@ -1,19 +1,20 @@
 {
-    "infos": [
-        {
+    "infos": [{
             "name": "Murilo",
             "email": "murilo@teste.com",
-            "tasks": [
-                {
-                    "task1": "BláBlá",
+            "tasks": [{
+                    "id": 1,
+                    "task": "BláBlá_M",
                     "completed": true
                 },
                 {
-                    "task2": "BláBlá2",
+                    "id": 2,
+                    "task": "BláBlá2_M",
                     "completed": true
                 },
                 {
-                    "task3": "BláBlá3",
+                    "id": 3,
+                    "task": "BláBlá3_M",
                     "completed": false
                 }
             ]
@@ -21,17 +22,19 @@
         {
             "name": "Rodrigo",
             "email": "rodrigo@teste.com",
-            "tasks": [
-                {
-                    "task1": "BláBlá",
+            "tasks": [{
+                    "id": 1,
+                    "task": "BláBlá_R",
                     "completed": false
                 },
                 {
-                    "task2": "BláBlá2",
+                    "id": 2,
+                    "task": "BláBlá2_R",
                     "completed": false
                 },
                 {
-                    "task3": "BláBlá3",
+                    "id": 3,
+                    "task": "BláBlá3_R",
                     "completed": true
                 }
             ]
