@@ -1,43 +1,46 @@
 {
-    "infos": [{
-            "name": "Murilo",
-            "email": "murilo@teste.com",
-            "tasks": [{
-                    "id": 1,
-                    "task": "BláBlá_M",
-                    "completed": true
-                },
-                {
-                    "id": 2,
-                    "task": "BláBlá2_M",
-                    "completed": true
-                },
-                {
-                    "id": 3,
-                    "task": "BláBlá3_M",
-                    "completed": false
-                }
-            ]
+  "infos": [
+    {
+      "name": "Murilo",
+      "email": "murilo@teste.com",
+      "tasks": [
+        {
+          "id": 1,
+          "task": "Fazer login",
+          "completed": true
         },
         {
-            "name": "Rodrigo",
-            "email": "rodrigo@teste.com",
-            "tasks": [{
-                    "id": 1,
-                    "task": "BláBlá_R",
-                    "completed": false
-                },
-                {
-                    "id": 2,
-                    "task": "BláBlá2_R",
-                    "completed": false
-                },
-                {
-                    "id": 3,
-                    "task": "BláBlá3_R",
-                    "completed": true
-                }
-            ]
+          "id": 2,
+          "task": "Jogar Pesca Pokémon",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "task": "Fazer 1200 pontos",
+          "completed": false
         }
-    ]
+      ]
+    },
+    {
+      "name": "Rodrigo",
+      "email": "rodrigo@teste.com",
+      "tasks": [
+        {
+          "id": 1,
+          "task": "Fazer Login",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "task": "Jogar Pesca Pokémon",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "task": "Fazer 1000 pontos",
+          "completed": false
+        }
+      ]
+    }
+  ]
 }
